@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: right;
+    color: red;
+}
+
+img{
+    height: 400px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: dotted red 5px;
+    border-radius: 1000px;
+}
+
+.button{
+    color: darkgreen;
+    background-color: rgb(250, 184, 250);
+    border: solid 5px;
+    border-radius:  7px;
+    
+}
